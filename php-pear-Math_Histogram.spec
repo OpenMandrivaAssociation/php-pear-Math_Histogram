@@ -6,7 +6,7 @@
 Summary:	%{_class}_%{_subclass} - Classes to calculate histogram distributions
 Name:		php-pear-%{_pearname}
 Version:	0.9.0
-Release:	%mkrel 10
+Release:	%mkrel 11
 License:	PHP License
 Group:		Development/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2
