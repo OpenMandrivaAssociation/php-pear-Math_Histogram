@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.9.0
-Release:	%mkrel 13
+Release:	%mkrel 14
 Summary:	Classes to calculate histogram distributions
 License:	PHP License
 Group:		Development/PHP
